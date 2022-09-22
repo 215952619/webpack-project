@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: unset;
+}
